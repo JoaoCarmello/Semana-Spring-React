@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 ## 💻 Projeto
 
-Projeto completo com objetivo de visualizar as vendas realizadas, onde é possível enviar notificações SMS via Twilio  visando as boas práticas.
+Projeto completo com objetivo de visualizar as vendas realizadas, onde é possível enviar notificações SMS via Twilio visando as boas práticas.
 ---
 ## 🔖 Layout
 
